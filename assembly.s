@@ -1,7 +1,7 @@
 .global _start
 
 _start:
-    MOV R0, #20       // Store the first number in R0
+    MOV R0, #15       // Store the first number in R0
     MOV R1, #10         // Store the second number in R1
     MOV R5, #15        // Store decimal 15 in R5
     
